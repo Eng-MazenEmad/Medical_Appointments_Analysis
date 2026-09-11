@@ -37,5 +37,5 @@ A data analysis project built using **Python (Jupyter Notebook)** and core data 
 <div align="center">
 
 ### Patient Attendance & No-Show Analytics
-*Comprehensive evaluation of patient demographic trends, neighborhood absenteeism patterns, and behavioral compliance factors impacting medical appointment attendance. Analysis of key variables including chronic conditions, age groups, scholarship enrollment, and SMS reminders to help healthcare providers minimize missed appointments.*
+*Analysis of patient demographics, neighborhood trends, and behavioral factors—including chronic conditions, age, scholarship status, and SMS reminders—to help healthcare providers minimize missed appointments.*
 </div>
