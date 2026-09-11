@@ -36,6 +36,6 @@ A data analysis project built using **Python (Jupyter Notebook)** and core data 
 
 <div align="center">
 
-### Smallest Nations, Population Densities & Major Populations
-*Analysis of the top smallest countries by area via scatter plots, population density rankings across high-density regions, and demographic breakdowns for nations with populations exceeding 100 million.*
+### Patient Attendance & No-Show Analytics
+*Comprehensive evaluation of patient demographic trends, neighborhood absenteeism patterns, and behavioral compliance factors impacting medical appointment attendance. Analysis of key variables including chronic conditions, age groups, scholarship enrollment, and SMS reminders to help healthcare providers minimize missed appointments.*
 </div>
