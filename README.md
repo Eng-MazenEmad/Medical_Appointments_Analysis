@@ -1,12 +1,12 @@
 # Investigate Medical Appointments Attendance
 
-A data analysis project built using **Python (Jupyter Notebook)** and core data science libraries (**Pandas**, **NumPy**, and **Matplotlib**) to investigate patient attendance patterns, missed appointments (no-shows), and healthcare compliance factors[cite: 2].
+A data analysis project built using **Python (Jupyter Notebook)** and core data science libraries (**Pandas**, **NumPy**, and **Matplotlib**) to investigate patient attendance patterns, missed appointments (no-shows), and healthcare compliance factors.
 
 ---
 
 ## Project Overview
-* **Goal:** Uncover data-driven insights to understand key factors influencing patient attendance and help healthcare providers minimize missed appointments[cite: 2].
-* **Key Focus Areas:** Analyzing patient demographics (age, gender, and neighborhood), evaluating medical history and chronic conditions, and measuring the direct impact of SMS reminders and scholarship programs on attendance[cite: 2].
+* **Goal:** Uncover data-driven insights to understand key factors influencing patient attendance and help healthcare providers minimize missed appointments.
+* **Key Focus Areas:** Analyzing patient demographics (age, gender, and neighborhood), evaluating medical history and chronic conditions, and measuring the direct impact of SMS reminders and scholarship programs on attendance.
 
 ---
 
