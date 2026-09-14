@@ -28,7 +28,7 @@ A data analysis project built using **Python (Jupyter Notebook)** and core data 
 ### 4. Data Visualizations & Insights
 * Generated data summaries and metrics tracking absentee totals by gender, high no-show neighborhoods, and comparative attendance percentages across chronic conditions and age brackets.
 
----
+
 
 <a id="viz"></a>
 
